@@ -17,3 +17,6 @@ Der Schwerpunkt war ein Softwarepaket für die Bereiche Arbeitssicherheit und Um
 2018 beschloss ich eine neue Aufgabe zu suchen und arbeite seitdem als Software-Entwickler bei der Erstellung einer großen, platformübergreifenden Anwendung für die Messdatenanalyse mit. Meine Hauptaufgaben sind die Visualisierung der Daten mit OpenGL unter WPF/Xamarin/Maui, die Entwicklung grundlegender platformunabhängiger Gesamt-Strukturen und die Qualitätssicherung mit Testkonzepten, in Zukunft geplant in Anlehnung an die ISO 29119.
 
  
+ <p align="center">
+  <img src="img/zx81.png">
+</p>

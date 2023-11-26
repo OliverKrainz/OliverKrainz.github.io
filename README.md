@@ -1,11 +1,11 @@
 # Github homepage Repository
 
-Dies ist das Repository für meine github homepage. 
+This is my Github homepage repository. 
 
-Erstellt wurde sie auf Basis von "Beautiful Jekyll". Ein gelungenes Template, deshalb besucht und unterstützt den Autor:
+It´s forked from a Jekyll template repository named "Beautiful Jekyll". A nice powerful template, so vitit and support its creator:
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
-Außer den Inhalten habe ich bisher keine Anpassungen am Template vorgenommen.
+Besides changing and adding content, the template remained unaltered.
