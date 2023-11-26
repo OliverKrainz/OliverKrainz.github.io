@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-subtitle: Console.WriteLine( "hello world" );
+subtitle: hello world
 ---
 
 Hallo!
