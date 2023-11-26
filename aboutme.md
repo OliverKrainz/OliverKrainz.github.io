@@ -18,5 +18,5 @@ Der Schwerpunkt war ein Softwarepaket für die Bereiche Arbeitssicherheit und Um
 
  
  <p align="center">
-  <img src="img/zx81.png">
+  <img src="/img/zx81.png">
 </p>
