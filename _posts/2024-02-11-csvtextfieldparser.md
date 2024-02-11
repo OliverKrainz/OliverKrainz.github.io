@@ -3,7 +3,7 @@ layout: post
 title: Import von csv-Dateien
 subtitle: Die TextFieldParser-Klasse
 cover-img: /assets/img/graybg.png
-thumbnail-img: /assets/img/cshard.jpg
+thumbnail-img: /assets/img/cshard.png
 share-img: /assets/img/start.jpg
 tags: [c#, csv, TextFieldParser ]
 author: Oliver Kocks
@@ -14,7 +14,8 @@ nicht selbst um einige der Randprobleme kümmern muss (unvollständige Zeilen, l
 
 Beispiel:
 
-`
+```
+
 using Microsoft.VisualBasic.FileIO;
 
 ...
@@ -37,7 +38,8 @@ catch ( Exception e )
 {
 	...
 }
-`
+
+```
          
 Als Ergebnis erhält man ein pro ReadFields-Aufruf ein Array der Spaltenwerte, die man entsprechend verarbeiten kann.
 Von dem "VisualBasic"-Namespace muss man sich nicht abschrecken lassen. Die Klasse ist in einer der Standard-dotnet-Bibliotheken eingebunden, der exotische Namespace wahrscheinlich ein Relikt aus den
