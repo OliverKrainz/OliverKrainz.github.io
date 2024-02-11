@@ -3,7 +3,7 @@ layout: post
 title: Import von csv-Dateien
 subtitle: Die TextFieldParser-Klasse
 cover-img: /assets/img/graybg.png
-thumbnail-img: /assets/img/cshard.png
+thumbnail-img: /assets/img/csharp.png
 share-img: /assets/img/start.jpg
 tags: [c#, csv, TextFieldParser ]
 author: Oliver Kocks
