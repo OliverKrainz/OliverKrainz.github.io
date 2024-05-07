@@ -3,7 +3,7 @@ layout: post
 title: Gravitation is not a force
 subtitle: Training fürs Gehirn
 cover-img: /assets/img/gravitation.jpg
-thumbnail-img: /assets/img/sunflower.jpg
+#thumbnail-img: /assets/img/sunflower.jpg
 share-img: /assets/img/start.jpg
 tags: [gravitation ]
 author: Oliver Kocks
