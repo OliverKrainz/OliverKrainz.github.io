@@ -6,7 +6,7 @@ subtitle: Console.WriteLine( "hello world" );
 
 Hallo!
 
-Mein Name ist Oliver Kocks. Seit dem ersten Kontakt mit einem Sinclair ZX81 im Jahre 1982 gilt mein Interesse der Software-Entwicklung.
+Mein Name ist Oliver Krainz. Seit dem ersten Kontakt mit einem Sinclair ZX81 im Jahre 1982 gilt mein Interesse der Software-Entwicklung.
 
 Nach den Anfängen der Homecomputer-Ära mit Assembler und Basic, ging es im Wirtschafts-Informatik Studium weiter mit Cobol, Pascal und C.
 

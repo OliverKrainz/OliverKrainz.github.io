@@ -2,11 +2,11 @@
 layout: post
 title: Import von csv-Dateien
 subtitle: Die TextFieldParser-Klasse
-cover-img: /assets/img/graybg.png
-thumbnail-img: /assets/img/csharp.png
+#cover-img: /assets/img/graybg.png
+#thumbnail-img: /assets/img/csharp.png
 share-img: /assets/img/start.jpg
 tags: [c#, csv, TextFieldParser ]
-author: Oliver Kocks
+author: Oliver Krainz
 ---
 
 Der Import von csv-Dateien ist ein recht typisches Problem. Glücklicherweise bietet c# hier (etwas versteckt) in der TextFieldParser-Klasse die notwendige Funktionalität. Dies hat den Vorteil, dass man sich

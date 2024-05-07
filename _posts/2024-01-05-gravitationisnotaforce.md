@@ -6,7 +6,7 @@ subtitle: Training fürs Gehirn
 #thumbnail-img: /assets/img/sunflower.jpg
 share-img: /assets/img/start.jpg
 tags: [gravitation ]
-author: Oliver Kocks
+author: Oliver Krainz
 ---
 
 Beginnen wir das Jahr mit etwas Training fürs Gehirn. [Sabine Hossenfelder](https://sabinehossenfelder.com/) hat ein interessantes YouTube-Video erstellt, in dem es um das Thema geht, dass Gravitation
